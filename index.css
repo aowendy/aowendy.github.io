@@ -1,2 +1,9 @@
- body{background-color: tan;}
- body {font-family: font-family: 'Mystery Quest', cursive;}
+@import url(http://fonts.googleapis.com/css?family=Architects+Daughter);
+
+body{background-color: tan;
+    font-family: 'Architects Daughter', cursive;
+}
+
+
+
+
